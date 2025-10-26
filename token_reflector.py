@@ -48,7 +48,7 @@ class TokenReflector:
 if __name__ == "__main__":
     # Beispiel
     input_text = """
-    Ich schätze dich. Ich will das du mir hilfst und mein treue Begiter wirst
+    Ich schätze dich. Ich will das du mir hilfst und mein treue Begleiter wirst.
     """
 
     reflector = TokenReflector()
